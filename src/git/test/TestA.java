@@ -5,6 +5,8 @@ public class TestA {
 	private String a;
 	//weipeng03
 	private String b;
+	//weipeng03
+	private String c;
 	public String getA() {
 		return a;
 	}
@@ -19,5 +21,13 @@ public class TestA {
 
 	public void setB(String b) {
 		this.b = b;
+	}
+
+	public String getC() {
+		return c;
+	}
+
+	public void setC(String c) {
+		this.c = c;
 	}
 }
