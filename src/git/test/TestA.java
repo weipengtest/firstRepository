@@ -3,6 +3,7 @@ package git.test;
 public class TestA {
 	//weipeng03
 	private String a;
+	//weipeng03
 	private String b;
 	public String getA() {
 		return a;
