@@ -7,6 +7,7 @@ public class TestA {
 	private String b;
 	//weipeng03
 	private String c;
+	//weipeng03
 	public String getA() {
 		return a;
 	}
