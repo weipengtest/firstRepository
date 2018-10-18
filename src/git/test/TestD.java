@@ -7,7 +7,7 @@ public class TestD {
 	public String getC() {
 		return c;
 	}
-
+	//weipeng003
 	public void setC(String c) {
 		this.c = c;
 	}
